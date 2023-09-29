@@ -32,7 +32,6 @@ const quizData = [
         correct: "b",
     },
 ];
-
 const quiz = document.getElementById("quiz");
 const answerEls = document.querySelectorAll(".answer");
 const questionEl = document.getElementById("question");
